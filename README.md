@@ -16,5 +16,8 @@ This project was developed as an undergraduate thesis project to monitor LPG gas
 - Exhaust fan control
 - Email notification system
 
+## Publish Paper
+[Click here][https://jurnal.unimed.ac.id/2012/index.php/cess/en/article/view/67148]
+
 ## Author
-Michellia
+© 2026 Michellia Delphi Isfahan Pravda
